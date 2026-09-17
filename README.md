@@ -1,13 +1,15 @@
 # CryptoLance Whitepaper
 
-This repository contains the whitepaper for **CryptoLance** — a decentralized freelance platform built on the Tron blockchain.
+This repository contains the official documentation for **CryptoLance** — a decentralized freelance platform built on the Tron blockchain.
 
-📄 **Read the full paper:** [comparative-analysis.md](comparative-analysis.md)
+## 📄 Documentation
 
-## Abstract
-This paper examines the architectural differentiation of CryptoLance within the evolving landscape of freelance platforms and payment systems. It explores how integrated smart-contract workflows can replace centralized intermediaries.
+- **[WHITEPAPER.md](WHITEPAPER.md)** — The official architecture and vision document.
+- **[comparative-analysis.md](comparative-analysis.md)** — Comparative analysis of decentralized freelance platforms.
+- **[reputation-layer.md](reputation-layer.md)** — Engineering overview of the Reputation Layer.
 
 ## Contact
+
 - **Founder:** Ali Kaharkaboodi
 - **Email:** contactMyPlatform@proton.me
 - **GitHub:** [goldman0020](https://github.com/goldman0020)
