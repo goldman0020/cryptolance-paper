@@ -7,6 +7,7 @@ This repository contains the official documentation for **CryptoLance** — a de
 - **[WHITEPAPER.md](WHITEPAPER.md)** — The official architecture and vision document.
 - **[comparative-analysis.md](comparative-analysis.md)** — Comparative analysis of decentralized freelance platforms.
 - **[reputation-layer.md](reputation-layer.md)** — Engineering overview of the Reputation Layer.
+- **[technical-architecture.md](technical-architecture.md)** — Wallet-to-settlement architecture and technical overview.
 
 ## Contact
 
