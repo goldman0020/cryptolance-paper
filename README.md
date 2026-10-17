@@ -8,7 +8,7 @@ This repository contains the official documentation for **CryptoLance** — a de
 - **[comparative-analysis.md](comparative-analysis.md)** — Comparative analysis of decentralized freelance platforms.
 - **[reputation-layer.md](reputation-layer.md)** — Engineering overview of the Reputation Layer.
 - **[technical-architecture.md](technical-architecture.md)** — Wallet-to-settlement architecture and technical overview.
-
+- **[settlement-asset-decision.md](settlement-asset-decision.md)** — Beyond Smart Contracts: Why the choice of settlement asset matters.
 ## Contact
 
 - **Founder:** Ali Kaharkaboodi
