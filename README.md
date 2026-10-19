@@ -11,6 +11,8 @@ This repository contains the official documentation for **CryptoLance** — a de
 - **[settlement-asset-decision.md](settlement-asset-decision.md)** — Beyond Smart Contracts: Why the choice of settlement asset matters.
 - **[user-guide-test-version.md](user-guide-test-version.md)** — Complete user guide for the CryptoLance test version (Shasta Testnet).
 
+- **[phase-1-testing-guide.md](phase-1-testing-guide.md)** — Phase 1 public testing guide for CryptoLance.
+
 ## Contact
 
 - **Founder:** Ali Kaharkaboodi
